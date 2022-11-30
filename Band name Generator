@@ -1,0 +1,4 @@
+Greetings = "Hey,Good to see you after so long, I work as a lead Guitarist! My band name is"
+city = input("Enter the city you grew up in ")
+pet = input("Enter your Pet's name : " )
+print(Greetings + city + pet)
